@@ -1,4 +1,4 @@
-# PHARMA SALES ANALYSIS-
+# PHARMA SALES ANALYSIS
 
 The analysis of a dataset that has the details of medicine sales and production for different varieties is done in this project. 
 
